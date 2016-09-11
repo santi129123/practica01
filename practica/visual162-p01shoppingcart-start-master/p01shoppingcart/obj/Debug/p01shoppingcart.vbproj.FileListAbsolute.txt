@@ -1,0 +1,12 @@
+G:\Drive\visual162-p01shoppingcart-start-master\p01shoppingcart\bin\Debug\p01shoppingcart.exe.config
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\bin\Debug\p01shoppingcart.exe.config
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\bin\Debug\p01shoppingcart.exe
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\bin\Debug\p01shoppingcart.pdb
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\bin\Debug\p01shoppingcart.xml
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.vbprojResolveAssemblyReference.cache
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.MainForm.resources
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.Resources.resources
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.vbproj.GenerateResource.Cache
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.exe
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.xml
+C:\Users\core\Desktop\practica\visual162-p01shoppingcart-start-master\p01shoppingcart\obj\Debug\p01shoppingcart.pdb
